@@ -41,6 +41,10 @@ html {
     font-size: 2vh;
 }
 
+.userInfo form{
+    text-align: center;
+}
+
 button {
     width: 52vw;
     height: 4vh;
@@ -66,14 +70,24 @@ button:hover{
     position: relative;
     top:15vh;
 }
-
-#noAcc{
+#noAcc {
     color: white;
     font-weight: normal;
     font-size: 2vh;
     text-align: left;
     width: 55vw;
     font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+}
+
+#noAcc a{
+    color: white;
+    font-weight: normal;
+    font-size: 2vh;
+    text-align: left;
+    width: 55vw;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
 }
 .container{
     position: relative;

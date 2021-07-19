@@ -75,6 +75,7 @@ hr {
     padding: 1px;
     margin: 5px;
     font-size: 4vh;
+    font-family: 'Robot',sans-serif;
 }
 #newAcc,#back2Login{
     text-align: center;
