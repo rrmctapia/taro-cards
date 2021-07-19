@@ -32,5 +32,6 @@ li:last-child{
     border-right: none;
 }
 
-img{
+.active {
+    background-color: #D4D4D4;
 }
